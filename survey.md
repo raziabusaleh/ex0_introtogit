@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Red
+Favorite food: Dawali
+Favorite musician/band: Aum Kalthoum
+Favorite movie: Shrik
+Requested grade in the course: 100
